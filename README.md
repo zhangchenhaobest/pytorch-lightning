@@ -1,3 +1,29 @@
+# pytorch-lightning
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+Pretrain, finetune ANY AI model of ANY size on 1 or 10,000+ GPUs with zero code changes.
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+在 1 到上万张 GPU 上预训练、微调任意规模的 AI 模型，零代码改动。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 <div align="center">
 
 <img alt="Lightning" src="https://pl-bolts-doc-images.s3.us-east-2.amazonaws.com/app-2/ptl_banner.png" width="800px" style="max-width: 100%;">
